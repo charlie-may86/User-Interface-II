@@ -237,3 +237,7 @@ footer a {
     }
 
 }
+
+@media(max-width: 500px) {
+    /*  Everything looks good.*/
+}
